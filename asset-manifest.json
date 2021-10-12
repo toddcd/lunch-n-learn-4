@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lunch-n-learn-4/static/css/main.86576606.chunk.css",
-    "main.js": "/lunch-n-learn-4/static/js/main.b0b01b74.chunk.js",
-    "main.js.map": "/lunch-n-learn-4/static/js/main.b0b01b74.chunk.js.map",
+    "main.js": "/lunch-n-learn-4/static/js/main.da53b78a.chunk.js",
+    "main.js.map": "/lunch-n-learn-4/static/js/main.da53b78a.chunk.js.map",
     "runtime-main.js": "/lunch-n-learn-4/static/js/runtime-main.09fc7473.js",
     "runtime-main.js.map": "/lunch-n-learn-4/static/js/runtime-main.09fc7473.js.map",
     "static/js/2.bac1c38c.chunk.js": "/lunch-n-learn-4/static/js/2.bac1c38c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.09fc7473.js",
     "static/js/2.bac1c38c.chunk.js",
     "static/css/main.86576606.chunk.css",
-    "static/js/main.b0b01b74.chunk.js"
+    "static/js/main.da53b78a.chunk.js"
   ]
 }
