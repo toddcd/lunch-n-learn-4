@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lunch-n-learn-2/static/css/main.86576606.chunk.css",
-    "main.js": "/lunch-n-learn-2/static/js/main.e0b05daf.chunk.js",
-    "main.js.map": "/lunch-n-learn-2/static/js/main.e0b05daf.chunk.js.map",
-    "runtime-main.js": "/lunch-n-learn-2/static/js/runtime-main.1128dcb2.js",
-    "runtime-main.js.map": "/lunch-n-learn-2/static/js/runtime-main.1128dcb2.js.map",
-    "static/js/2.146cf573.chunk.js": "/lunch-n-learn-2/static/js/2.146cf573.chunk.js",
-    "static/js/2.146cf573.chunk.js.map": "/lunch-n-learn-2/static/js/2.146cf573.chunk.js.map",
-    "index.html": "/lunch-n-learn-2/index.html",
-    "static/css/main.86576606.chunk.css.map": "/lunch-n-learn-2/static/css/main.86576606.chunk.css.map",
-    "static/js/2.146cf573.chunk.js.LICENSE.txt": "/lunch-n-learn-2/static/js/2.146cf573.chunk.js.LICENSE.txt"
+    "main.css": "/lunch-n-learn-4/static/css/main.86576606.chunk.css",
+    "main.js": "/lunch-n-learn-4/static/js/main.e0b05daf.chunk.js",
+    "main.js.map": "/lunch-n-learn-4/static/js/main.e0b05daf.chunk.js.map",
+    "runtime-main.js": "/lunch-n-learn-4/static/js/runtime-main.09fc7473.js",
+    "runtime-main.js.map": "/lunch-n-learn-4/static/js/runtime-main.09fc7473.js.map",
+    "static/js/2.146cf573.chunk.js": "/lunch-n-learn-4/static/js/2.146cf573.chunk.js",
+    "static/js/2.146cf573.chunk.js.map": "/lunch-n-learn-4/static/js/2.146cf573.chunk.js.map",
+    "index.html": "/lunch-n-learn-4/index.html",
+    "static/css/main.86576606.chunk.css.map": "/lunch-n-learn-4/static/css/main.86576606.chunk.css.map",
+    "static/js/2.146cf573.chunk.js.LICENSE.txt": "/lunch-n-learn-4/static/js/2.146cf573.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1128dcb2.js",
+    "static/js/runtime-main.09fc7473.js",
     "static/js/2.146cf573.chunk.js",
     "static/css/main.86576606.chunk.css",
     "static/js/main.e0b05daf.chunk.js"
